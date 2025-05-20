@@ -53,3 +53,6 @@
     - Are just getting started
     have fewer hardware resources
 - Choice depends on your goals and system capabilities
+## Install Virtualbox
+- Make sure that virtualization enabled
+- How? Control+Shift and Escape 
